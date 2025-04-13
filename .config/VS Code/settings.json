@@ -1,0 +1,56 @@
+{
+    "explorer.confirmDelete": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 16,
+    "editor.guides.bracketPairs": "active",
+    "security.workspace.trust.untrustedFiles": "open",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.lineHeight": 1.5,
+    "editor.rulers": [80, 120],
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "editor.minimap.enabled": false,
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.fontSize": 18,
+    "breadcrumbs.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "window.commandCenter": false,
+    "apc.electron": {
+        "titleBarStyle": "hiddenInset"
+    },
+    "apc.header": {
+        "height": 36
+    },
+    "apc.stylesheet": {
+        ".title-label > h2": "display: none",
+        ".pane-body": "padding: 8px",
+        ".pane-header": "padding: 0 8px"
+    },
+    "apc.listRow": {
+        "height": 26
+    },
+    "workbench.colorCustomizations": {
+        "terminal.background": "#00000000"
+    },
+    "workbench.settings.applyToAllProfiles": [
+        "workbench.colorCustomizations"
+    ],
+    "python.createEnvironment.trigger": "off",
+    "workbench.colorTheme": "Kanagawa",
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "explorer.confirmPasteNative": false
+}
