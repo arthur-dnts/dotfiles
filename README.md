@@ -28,7 +28,7 @@
 - [Tiling Shell](https://extensions.gnome.org/extension/7065/tiling-shell/) (For windows management)
 
 <div align="center">
- <h1>Themes and Fonts</h1>
+ <h1>Themes, Fonts and Terminal Colors</h1>
 </div>
 
 ### Themes
@@ -36,6 +36,8 @@
 - [Nordic](https://www.gnome-look.org/p/1267246) (Theme and icons - Nordic Darker)
 
 - [Catppuccin Mocha Cursors](https://www.gnome-look.org/p/2135236) (Custom cursor - Color blue)
+
+- [Oxocarbon](https://github.com/nyoom-engineering/base16-oxocarbon) (Base16 terminal colors)
 
 ### Fonts
 
