@@ -28,7 +28,7 @@
 - [Tiling Shell](https://extensions.gnome.org/extension/7065/tiling-shell/) (For windows management)
 
 <div align="center">
- <h1>Themes, Fonts and Terminal Colors</h1>
+ <h1>Themes and Cursors, Fonts and Terminal Colors</h1>
 </div>
 
 ### Themes
@@ -51,7 +51,7 @@
 </div>
 
 > [!NOTE]
-I use NvChad (yes, I'm a failure as a programmer) and Lazy.nvim to manage the installed plugins. All the plugins and my custom configurations are in the `.config/nvim` folder.
+I use NvChad (yes, I'm a failure as a programmer) and Lazy.nvim for plugins management, all my custom configurations are in the `.config/nvim` folder.
 
 - [NvChad](https://nvchad.com/) (For self-torture sometimes)
 
