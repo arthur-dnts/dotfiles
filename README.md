@@ -73,3 +73,7 @@ I use NvChad (yes, I'm a failure as a programmer) and Lazy.nvim for plugins mana
 
 - [Cmatrix](https://github.com/abishekvashok/cmatrix) (Matrix terminal)
 
+<div align="center">
+ <h1>License</h1>
+ <p>This project as a whole is licensed under the MIT License. See the LICENSE file for details.</p>
+</div>
