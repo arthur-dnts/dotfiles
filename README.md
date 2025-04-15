@@ -67,7 +67,7 @@ I use NvChad (yes, I'm a failure as a programmer) and Lazy.nvim for plugins mana
 
 - [Btop](https://github.com/aristocratos/btop) (Resources monitor)
 
-- [Cava](https://github.com/karlstav) (Audio visualizer)
+- [Cava](https://github.com/karlstav/cava) (Audio visualizer)
 
 - [Cbonsai](https://github.com/mhzawadi/homebrew-cbonsai) (Bonsai tree generator)
 
