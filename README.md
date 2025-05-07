@@ -61,15 +61,19 @@ I use NvChad (yes, I'm a failure as a programmer) and Lazy.nvim for plugins mana
  <h1>CLI/TUI Programs</h1>
 </div>
 
-- [ClockTemp](https://github.com/dantas-arthur/ClockTemp) (Display time, date and temperature)
+- [ClockTemp](https://github.com/arthur-dnts/ClockTemp) (Display time, date and temperature)
 
 - [Neofetch](https://github.com/dylanaraps/neofetch) (Display system information)
 
 - [Btop](https://github.com/aristocratos/btop) (Resources monitor)
 
-- [Cava](https://github.com/karlstav) (Audio visualizer)
+- [Cava](https://github.com/karlstav/cava) (Audio visualizer)
 
 - [Cbonsai](https://github.com/mhzawadi/homebrew-cbonsai) (Bonsai tree generator)
 
 - [Cmatrix](https://github.com/abishekvashok/cmatrix) (Matrix terminal)
 
+<div align="center">
+ <h1>License</h1>
+ <p>This project as a whole is licensed under the MIT License. See the LICENSE file for details.</p>
+</div>
