@@ -1,7 +1,7 @@
 [color]
 gradient = 1
 gradient_count = 4
-gradient_color_1 = '#2864FF'
-gradient_color_2 = '#7B4FFF'
-gradient_color_3 = '#A230FF'
-gradient_color_4 = '#FF66CC'
+gradient_color_1 = '#82CFFF'
+gradient_color_2 = '#6DB8FF'
+gradient_color_3 = '#5DA8E6'
+gradient_color_4 = '#4D88CC'
