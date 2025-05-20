@@ -26,7 +26,6 @@
     "liveServer.settings.donotShowInfoMsg": true,
     "explorer.confirmDragAndDrop": false,
     "terminal.integrated.fontSize": 18,
-    "breadcrumbs.enabled": false,
     "editor.stickyScroll.enabled": false,
     "window.commandCenter": false,
     "apc.electron": {
@@ -50,7 +49,8 @@
         "workbench.colorCustomizations"
     ],
     "python.createEnvironment.trigger": "off",
-    "workbench.colorTheme": "Kanagawa",
+    "workbench.colorTheme": "oxocarbon",
     "bracket-pair-colorizer-2.depreciation-notice": false,
-    "explorer.confirmPasteNative": false
+    "explorer.confirmPasteNative": false,
+    "editor.formatOnSave": true
 }
