@@ -1,0 +1,7 @@
+configuration {
+    modi: "drun,window,run,ssh";
+    font: "JetBrains Mono Nerd 12";
+    show-icons: true;
+}
+
+@theme "nord-dark"
