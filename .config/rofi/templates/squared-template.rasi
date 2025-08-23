@@ -16,7 +16,7 @@ window {
     location:       north;
     y-offset:       calc(50% - 176px);
     width:          525;
-    border-radius:  10px;
+    border-radius:  0px;
 
     background-color:   @bg0;
 }
@@ -30,7 +30,7 @@ inputbar {
     border-color:       @bg3;
 
     border:         2px;
-    border-radius:  16px;
+    border-radius:  0px;
 
     padding:    8px 16px;
     spacing:    8px;
@@ -43,12 +43,12 @@ prompt {
 
 entry {
     placeholder:        "Search";
-    placeholder-color:  @fg3;
+    placeholder-color:  @bg1;
 }
 
 message {
     margin:             12px 0 0;
-    border-radius:      16px;
+    border-radius:      0px;
     border-color:       @bg2;
     background-color:   @bg2;
 }
@@ -70,11 +70,11 @@ listview {
 element {
     padding:        8px 16px;
     spacing:        8px;
-    border-radius:  16px;
+    border-radius:  0px;
 }
 
 element normal active {
-    text-color: @bg3;
+    text-color: @fg1;
 }
 
 element alternate active {
@@ -83,6 +83,7 @@ element alternate active {
 
 element selected normal, element selected active {
     background-color:   @bg3;
+    text-color: @bg4;
 }
 
 element-icon {

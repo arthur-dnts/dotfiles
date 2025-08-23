@@ -21,7 +21,7 @@
 
 - [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/) (For translucent effect)
 
-- [Rounded Window Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/) (For roundend corners and colorized borders)
+- [Rounded Window Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/) (For rounded corners and colorized borders)
 
 - [Aylur's Widgets](https://extensions.gnome.org/extension/5338/aylurs-widgets/) (GNOME custom widgets)
 
@@ -33,11 +33,11 @@
 
 ### Themes
 
-- [Nordic](https://www.gnome-look.org/p/1267246) (Theme and icons - Nordic Darker)
+- [Squared](https://www.gnome-look.org/p/2206255) (Theme and icons)
 
-- [Catppuccin Mocha Cursors](https://www.gnome-look.org/p/2135236) (Custom cursor - Color blue)
+- [Catppuccin Mocha Cursors](https://www.gnome-look.org/p/2135236) (Custom cursor - Color Green)
 
-- [Oxocarbon](https://github.com/nyoom-engineering/base16-oxocarbon) (Base16 terminal colors)
+<img src="images/color_scheme.png">
 
 ### Fonts
 
@@ -47,15 +47,27 @@
 
 
 <div align="center">
- <h1>NeoVim</h1>
+ <h1>IDEs</h1>
 </div>
 
-> [!NOTE]
-I use NvChad (yes, I'm a failure as a programmer) and Lazy.nvim for plugins management, all my custom configurations are in the `.config/nvim` folder.
+- [Visual Studio Code](https://code.visualstudio.com/) (Most used IDE)
 
-- [NvChad](https://nvchad.com/) (For self-torture sometimes)
+- [NeoVim](https://neovim.io/) (For self-torture sometimes)
 
 - [Lazy.nvim](https://github.com/folke/lazy.nvim) (For plugins management)
+
+### NeoVim Plugins
+
+- [Alpha.nvim](https://github.com/goolord/alpha-nvim) (Customized dashboard)
+- [Nvim-Autopairs](https://github.com/windwp/nvim-autopairs) (Brackets autopairs)
+- [Bufferline.nvim](https://github.com/akinsho/bufferline.nvim) (Tabpage integration)
+- [Nvim-cmp](https://github.com/hrsh7th/nvim-cmp) (Code completion)
+- [Everforest-nvim](https://github.com/neanias/everforest-nvim) (Theme)
+- [Lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) (Status line)
+- [LuaSnip](https://github.com/L3MON4D3/LuaSnip) (Code snippets)
+- [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) (File and folder finder)
+- [Tree.nvim](https://github.com/nvim-tree/nvim-tree.lua) (File explorer)
+- [Nvim-Treesitter](https://github.com/nvim-treesitter/nvim-treesitter) (Syntax highlighting and code parsing)
 
 <div align="center">
  <h1>CLI/TUI Programs</h1>
@@ -65,7 +77,7 @@ I use NvChad (yes, I'm a failure as a programmer) and Lazy.nvim for plugins mana
 
 - [Neofetch](https://github.com/dylanaraps/neofetch) (Display system information)
 
-- [Btop](https://github.com/aristocratos/btop) (Resources monitor)
+- [Btop](https://github.com/aristocratos/btop) (Resource monitor)
 
 - [Cava](https://github.com/karlstav/cava) (Audio visualizer)
 
@@ -77,5 +89,5 @@ I use NvChad (yes, I'm a failure as a programmer) and Lazy.nvim for plugins mana
 
 <div align="center">
  <h1>License</h1>
- <p>This project as a whole is licensed under the MIT License. See the LICENSE file for details.</p>
+ <p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
 </div>
