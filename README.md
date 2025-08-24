@@ -37,6 +37,7 @@
 
 - [Catppuccin Mocha Cursors](https://www.gnome-look.org/p/2135236) (Custom cursor - Color Green)
 
+- Terminal colors:
 <img src="images/color_scheme.png">
 
 ### Fonts
