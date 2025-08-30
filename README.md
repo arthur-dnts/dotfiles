@@ -1,6 +1,6 @@
 <div align="center">
  <h1>Dotfiles</h1>
- <p>Dotfiles and resources I used to rice my ZorinOS</p>
+ <p>Dotfiles and resources I used to rice my ZorinOS <b>[GNOME/Xorg]<b></p>
 </div>
 
 <div align="center">
@@ -37,8 +37,7 @@
 
 - [Catppuccin Mocha Cursors](https://www.gnome-look.org/p/2135236) (Custom cursor - Color Green)
 
-- Terminal colors:
-<img src="images/color_scheme.png">
+- [Terminal Colors](https://github.com/arthur-dnts/dotfiles/blob/main/images/color_scheme.png) (Base16)
 
 ### Fonts
 
@@ -60,14 +59,23 @@
 ### NeoVim Plugins
 
 - [Alpha.nvim](https://github.com/goolord/alpha-nvim) (Customized dashboard)
+
 - [Nvim-Autopairs](https://github.com/windwp/nvim-autopairs) (Brackets autopairs)
+
 - [Bufferline.nvim](https://github.com/akinsho/bufferline.nvim) (Tabpage integration)
+
 - [Nvim-cmp](https://github.com/hrsh7th/nvim-cmp) (Code completion)
+
 - [Everforest-nvim](https://github.com/neanias/everforest-nvim) (Theme)
+
 - [Lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) (Status line)
+
 - [LuaSnip](https://github.com/L3MON4D3/LuaSnip) (Code snippets)
+
 - [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) (File and folder finder)
+
 - [Tree.nvim](https://github.com/nvim-tree/nvim-tree.lua) (File explorer)
+
 - [Nvim-Treesitter](https://github.com/nvim-treesitter/nvim-treesitter) (Syntax highlighting and code parsing)
 
 <div align="center">
