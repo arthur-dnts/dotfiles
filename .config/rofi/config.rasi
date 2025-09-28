@@ -1,7 +1,14 @@
+/*****----- Configuration -----*****/
 configuration {
-    modi: "drun,window,run,ssh";
-    font: "JetBrains Mono Nerd 12";
-    show-icons: true;
+    modi:                       "drun,run,filebrowser,window";
+    show-icons:                 true;
+    display-drun:               "APPS";
+    display-run:                "RUN";
+    display-filebrowser:        "FILES";
+    display-window:             "WINDOW";
+	drun-display-format:        "{name}";
+	window-format:              "{w} · {c} · {t}";
 }
 
-@theme "conky"
+@theme "~/.config/rofi/themes/conky.rasi"
+

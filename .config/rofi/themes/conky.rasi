@@ -13,7 +13,7 @@
     fg3:    #9EBC8A;
 }
 
-@import "templates/squared-template.rasi"
+@import "templates/sidebar.rasi"
 
 element selected {
     text-color: @bg1;

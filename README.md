@@ -28,7 +28,7 @@
 - [Tiling Shell](https://extensions.gnome.org/extension/7065/tiling-shell/) (For windows management)
 
 <div align="center">
- <h1>Themes and Cursors, Fonts and Terminal Colors</h1>
+ <h1>Theme, Cursor and Fonts</h1>
 </div>
 
 ### Themes
@@ -36,8 +36,6 @@
 - [Squared](https://www.gnome-look.org/p/2206255) (Theme and icons)
 
 - [Catppuccin Mocha Cursors](https://www.gnome-look.org/p/2135236) (Custom cursor - Color Green)
-
-- [Terminal Colors](https://github.com/arthur-dnts/dotfiles/blob/main/images/color_scheme.png) (Base16)
 
 ### Fonts
 
