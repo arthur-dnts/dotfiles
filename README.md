@@ -80,6 +80,8 @@
  <h1>CLI/TUI Programs</h1>
 </div>
 
+- [Alacritty](https://github.com/alacritty/alacritty) (Terminal)
+
 - [ClockTemp](https://github.com/arthur-dnts/ClockTemp) (Display time, date and temperature)
 
 - [Neofetch](https://github.com/dylanaraps/neofetch) (Display system information)
