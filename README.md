@@ -1,6 +1,6 @@
 <div align="center">
  <h1>Dotfiles</h1>
- <p>Dotfiles and resources I used to rice my ZorinOS <b>[GNOME/Xorg]<b></p>
+ <p>Dotfiles and resources I used to rice my ZorinOS <b>[GNOME/Xorg]</b></p>
 </div>
 
 <div align="center">
