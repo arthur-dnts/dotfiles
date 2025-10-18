@@ -1,3 +1,12 @@
+[window]
+padding.x = 10
+padding.y = 10
+decorations = "Buttonless"
+
+[font]
+normal.family = "JetBrainsMono Nerd Font"
+size = 11
+
 [colors.bright]
 black = "#1D2528"
 red = "#BA706F"
