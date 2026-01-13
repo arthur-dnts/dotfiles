@@ -62,8 +62,6 @@
 
 - [Bufferline.nvim](https://github.com/akinsho/bufferline.nvim) (Tabpage integration)
 
-- [Nvim-cmp](https://github.com/hrsh7th/nvim-cmp) (Code completion)
-
 - [Everforest-nvim](https://github.com/neanias/everforest-nvim) (Theme)
 
 - [Lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) (Status line)
@@ -82,9 +80,11 @@
 
 - [Alacritty](https://github.com/alacritty/alacritty) (Terminal)
 
+- [Starship](https://github.com/starship/starship) (Prompt customization)
+
 - [ClockTemp](https://github.com/arthur-dnts/ClockTemp) (Display time, date and temperature)
 
-- [Neofetch](https://github.com/dylanaraps/neofetch) (Display system information)
+- [Fastfetch](https://github.com/fastfetch-cli/fastfetch) (Display system information)
 
 - [Btop](https://github.com/aristocratos/btop) (Resource monitor)
 

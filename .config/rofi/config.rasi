@@ -1,6 +1,6 @@
 /*****----- Configuration -----*****/
 configuration {
-    modi:                       "drun,run,filebrowser,window";
+    modi:                       "drun,run,window";
     show-icons:                 true;
     display-drun:               "APPS";
     display-run:                "RUN";
@@ -10,5 +10,4 @@ configuration {
 	window-format:              "{w} · {c} · {t}";
 }
 
-@theme "~/.config/rofi/themes/conky.rasi"
-
+@theme "~/.config/rofi/themes/everforest.rasi"

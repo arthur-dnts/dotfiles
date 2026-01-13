@@ -1,0 +1,80 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "source": "~/.config/fastfetch/logos/logo.txt",
+    "type": "auto",
+    "color": {"2": "blue"},
+    "height": 10,
+    "padding": {
+      "top": 1,
+      "right": 2,
+      "left": 0
+    }
+  },
+  "display": {
+    "separator": " "
+  },
+  "modules": [
+    {
+      "key": " ",
+      "type": "custom"
+    },
+    {
+      "key": " ",
+      "type": "custom"
+    },
+    {
+      "key": "╭───────────╮",
+      "type": "custom"
+    },
+    {
+      "key": "│ {#31} User    {#keys}│",
+      "type": "title",
+      "format": "Arthur"
+    },
+    {
+      "key": "│ {#33}󰅐 Uptime  {#keys}│",
+      "type": "uptime"
+    },
+    {
+      "key": "│ {#32}󰹑 Display {#keys}│",
+      "type": "display",
+      "compactType": "original-with-refresh-rate"
+    },
+    {
+      "key": "│ {#34} Distro  {#keys}│",
+      "type": "os"
+    },
+    {
+      "key": "│ {#38} WM      {#keys}│",
+      "type": "wm"
+    },
+    {
+      "key": "│ {#31}󰇄 Desktop {#keys}│",
+      "type": "de"
+    },
+    {
+      "key": "│ {#32} Shell   {#keys}│", 
+      "type": "shell"
+    },
+    {
+      "key": "│ {#33} Term    {#keys}│",
+      "type": "terminal",
+      "format": "Alacritty"
+    },
+    {
+      "key": "├───────────┤",
+      "type": "custom"
+    },
+    {
+      "key": "│ {#39} colors  {#keys}│",
+      "type": "colors",
+      "symbol": "circle"
+    },
+    {
+      "key": "╰───────────╯",
+      "type": "custom"
+    }
+  ]
+}
+

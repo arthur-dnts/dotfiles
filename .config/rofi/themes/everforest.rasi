@@ -1,6 +1,3 @@
-/* ROUNDED THEME FOR ROFI */
-/* Author: Newman Sanchez (https://github.com/newmanls) */
-
 * {
     bg0:    #1d2528E0;
     bg1:    #1d252800;

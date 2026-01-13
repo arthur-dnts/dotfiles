@@ -1,32 +1,20 @@
 [window]
-padding.x = 10
-padding.y = 10
-decorations = "Buttonless"
+padding.x = 8
+padding.y = 0
+dynamic_title = true
+decorations = "Full"
 
 [font]
-normal.family = "JetBrainsMono Nerd Font"
+normal.family = "JetBrains Mono Nerd Font"
+normal.style = "Bold"
 size = 11
 
-[colors.bright]
-black = "#1D2528"
-red = "#BA706F"
-green = "#9EBC8A"
-yellow = "#D7BE7E"
-blue = "#7A9CB5"
-magenta = "#AA83A2"
-cyan = "#88B7AF"
-white = "#BCC3C9"
+[cursor]
+style.shape = "Block"
+style.blinking = "On"
 
-[colors.normal]
-black = "#1D2528"
-red = "#BA706F"
-green = "#9EBC8A"
-yellow = "#D7BE7E"
-blue = "#7A9CB5"
-magenta = "#AA83A2"
-cyan = "#88B7AF"
-white = "#BCC3C9"
+[general]
+import = [
+    "~/.config/alacritty/theme.toml"
+]
 
-[colors.primary]
-background = "#1B2024"
-foreground = "#BCC3C9"

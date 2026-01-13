@@ -2,17 +2,17 @@
 require("config.lazy")
 require("lazy").setup("plugins")
 
--- Line number indicator settings
+-- Configuração de números de linha
 vim.opt.number = true
 vim.opt.relativenumber = true
 
--- Automatic row break settings (visual)
+-- Configuração de quebra automática de linhas (visual)
 vim.opt.wrap = true
 vim.opt.linebreak = true
 vim.opt.breakindent = true
-vim.opt.showbreak = "↳ ",
+vim.opt.showbreak = "↳ "
 
--- Text encoding andd identation settings
+-- Configuração de text encoding e identação
 vim.g.mapleader = " "
 
 vim.scriptencoding = "utf-8"

@@ -1,0 +1,156 @@
+format = """
+[](bg:black fg:yellow)\
+[ ](fg:black bg:yellow)\
+[ ](fg:yellow bg:green)\
+$directory\
+[ ](fg:green bg:cyan)\
+$git_branch\
+$git_status\
+[ ](fg:cyan)\
+$fill\
+$cmd_duration $jobs $time\
+[ ](fg:blue bg:magenta)\
+$python\
+$c\
+$nodejs\
+java\
+$lua\
+[ ](fg:magenta)\
+$battery\
+\n$character"""
+
+palette = "everforest"
+add_newline = false
+scan_timeout = 50
+
+[fill]
+symbol = " "
+
+[directory]
+style = "fg:black bg:green"
+format = "[$path]($style)"
+truncation_length = 2
+truncation_symbol = " /"
+truncate_to_repo = false
+
+[git_branch]
+style = "fg:black bg:cyan"
+symbol = " "
+format = "[$symbol$branch ]($style)"
+
+[git_status]
+style = "fg:black bg:cyan"
+format = "([$all_status$ahead_behind]($style))"
+
+[cmd_duration]
+min_time = 500
+style = "white"
+format = "[$duration]($style)"
+
+[jobs]
+symbol = ""
+style = "red"
+number_threshold = 1
+format = "[$symbol]($style)"
+
+[time]
+disabled = false
+style = "fg:black bg:blue"
+format = "[$time ]($style)"
+use_12hr = true
+time_format = "   %I:%M %p"
+utc_time_offset = "local"
+
+[battery]
+full_symbol = "󰁹 "
+charging_symbol = "󰂄 "
+
+[[battery.display]]
+threshold = 100
+discharging_symbol = "󰁹 "
+style = "green"
+
+[[battery.display]]
+threshold = 90
+discharging_symbol = "󰂂 "
+style = "green"
+
+[[battery.display]]
+threshold = 80
+discharging_symbol = "󰂁 "
+style = "green"
+
+[[battery.display]]
+threshold = 70
+discharging_symbol = "󰂀 "
+style = "green"
+
+[[battery.display]]
+threshold = 60
+discharging_symbol = "󰁿 "
+style = "green"
+
+[[battery.display]]
+threshold = 50
+discharging_symbol = "󰁾 "
+style = "yellow"
+
+[[battery.display]]
+threshold = 40
+discharging_symbol = "󰁽 "
+style = "yellow"
+
+[[battery.display]]
+threshold = 30
+discharging_symbol = "󰁼 "
+style = "yellow"
+
+[[battery.display]]
+threshold = 20
+discharging_symbol = "󰁻 "
+style = "red"
+
+[[battery.display]]
+threshold = 10
+discharging_symbol = "󰁺 "
+style = "red"
+
+[character]
+format = "$symbol "
+error_symbol = " [](red)"
+success_symbol = " [](white)"
+
+[python]
+style = "fg:black bg:magenta"
+symbol = ""
+format = "[$symbol $version ]($style)"
+
+[c]
+style = "fg:black bg:magenta"
+symbol = ""
+format = "[$symbol $version ]($style)"
+
+[nodejs]
+style = "fg:black bg:magenta"
+symbol = "󰎙"
+format = "[$symbol $version ]($style)"
+
+[java]
+style = "fg:black bg:magenta"
+symbol = ""
+format = "[$symbol $version ]($style)"
+
+[lua]
+style = "fg:black bg:magenta"
+symbol = ""
+format = "[$symbol $version ]($style)"
+
+[palettes.everforest]
+black = "#1D2528"
+red = "#BA706F"
+green = "#9EBC8A"
+yellow = "#D7BE7E"
+blue = "#7A9CB5"
+magenta = "#AA83A2"
+cyan = "#88B7AF"
+white = "#BCC3C9"
