@@ -13,7 +13,7 @@ $cmd_duration $jobs $time\
 $python\
 $c\
 $nodejs\
-java\
+$java\
 $lua\
 [ ](fg:magenta)\
 $battery\
